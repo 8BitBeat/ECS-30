@@ -1,4 +1,4 @@
-ECS-30
+ECS-30: Programming and Problem Solving
 ======
 
 Beginner ECS course in Davis (C based) taken Fall 2012
